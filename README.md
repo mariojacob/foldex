@@ -5,9 +5,8 @@
 **Create consistent project folder structures in seconds using reusable templates.**
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue?logo=microsoft?style=flat-square)](https://github.com/mariojacob/foldex/releases)
-[![Version](https://img.shields.io/github/v/tag/mariojacob/foldex?sort=semver&label=Version&color=2E7D32&style=flat-square)](https://github.com/mariojacob/foldex/releases/latest)
+[![Version](https://img.shields.io/badge/Version-1.0.0-2E7D32?style=flat-square)](https://github.com/mariojacob/foldex/releases/latest)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)](https://flutter.dev/)
-[![Downloads](https://img.shields.io/github/downloads/mariojacob/foldex/total?label=Downloads&color=455A64&style=flat-square)](https://github.com/mariojacob/foldex/releases)
 
 [Download the latest release](https://github.com/mariojacob/foldex/releases/latest)
 
