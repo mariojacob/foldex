@@ -21,6 +21,10 @@ create standardized project folder structures without repetitive manual setup.
 Reusable templates, smart parameters, live previews, and safe generation keep
 projects consistent while project data stays on the local machine.
 
+<p align="center">
+  <img src="images/cover.png" alt="Titelbild" width="100%">
+</p>
+
 ## Highlights
 
 - Build reusable visual templates for folders and files.
